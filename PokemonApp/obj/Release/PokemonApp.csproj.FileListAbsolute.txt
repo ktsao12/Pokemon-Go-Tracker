@@ -1,0 +1,9 @@
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\bin\Release\PokemonApp.exe.config
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\bin\Release\PokemonApp.exe
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\bin\Release\PokemonApp.pdb
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\obj\Release\PokemonApp.Pokemon_App.resources
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\obj\Release\PokemonApp.Properties.Resources.resources
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\obj\Release\PokemonApp.csproj.GenerateResource.Cache
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\obj\Release\PokemonApp.exe
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\obj\Release\PokemonApp.pdb
+G:\Downloads\School\summer2016\PokemonApp\PokemonApp\obj\Release\PokemonApp.csprojResolveAssemblyReference.cache
