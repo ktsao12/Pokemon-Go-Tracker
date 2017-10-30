@@ -1,13 +1,4 @@
-﻿// CS480
-// Prof. Hummel
-// Summer 2016
-// Jaskaran Singh and Kevin Tsao
-// Final Project: Pokemon Go App
-//
-// Please read the Readme for details!
-//
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
